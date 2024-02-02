@@ -1,0 +1,2 @@
+pod:
+  image: hifrodo/rapa:v1 #개인이 만든 nginx 이미지
